@@ -17,7 +17,7 @@
       "type": "nominal"
     },
     "y": {
-      "title": "Average Annual CPI",
+      "title": "Average Annual CPI (%)",
       "aggregate":"average",
       "field":"CPI"
     },
